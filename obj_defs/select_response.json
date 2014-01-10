@@ -1,0 +1,7 @@
+{
+    "type" : "record",
+    "name" : "select_response",
+    "fields" : [
+        { "name" : "count", "type" : "int" }
+    ]
+}

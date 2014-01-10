@@ -1,0 +1,7 @@
+{
+    "type" : "record",
+    "name" : "update_set_ttl_response",
+    "fields" : [
+        { "name" : "set_id", "type" : "string" }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "type" : "record",
+    "name" : "make_bloom_request",
+    "fields" : [
+        { "name" : "set_id", "type" : "string" },
+        { "name" : "attribute", "type" : "string" }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "type" : "record",
+    "name" : "road_intersection_response",
+    "fields" : [
+        { "name" : "matching_output_attributes", "type" : { "type" : "array", "items" : "string" }}
+    ]
+}

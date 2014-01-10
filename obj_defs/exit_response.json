@@ -1,0 +1,7 @@
+{
+    "type" : "record",
+    "name" : "exit_response",
+    "fields" : [
+        { "name" : "exit_status", "type" : "string" }
+    ]
+}

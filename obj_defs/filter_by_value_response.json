@@ -1,0 +1,7 @@
+{
+    "type" : "record",
+    "name" : "filter_by_value_response",
+    "fields" : [
+        { "name" : "count", "type" : "int" }
+    ]
+}

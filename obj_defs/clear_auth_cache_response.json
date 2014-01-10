@@ -1,0 +1,7 @@
+{
+    "type" : "record",
+    "name" : "clear_auth_cache_response",
+    "fields" : [
+        { "name" : "status", "type" : "string" }
+    ]
+}

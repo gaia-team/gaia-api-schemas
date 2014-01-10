@@ -1,0 +1,8 @@
+{
+    "type" : "record",
+    "name" : "max_min_response",
+    "fields" : [
+        { "name" : "max", "type" : "double" },
+        { "name" : "min", "type" : "double" }
+    ]
+}

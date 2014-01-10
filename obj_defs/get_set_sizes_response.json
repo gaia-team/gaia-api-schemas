@@ -1,0 +1,7 @@
+{
+    "type" : "record",
+    "name" : "get_set_sizes_response",
+    "fields" : [
+        { "name" : "count_map", "type" : { "type" : "map", "values" : { "type" : "array", "items" : "int" }}}
+    ]
+}
