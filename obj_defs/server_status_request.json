@@ -1,7 +1,7 @@
 {
-   "type": "record", 
-   "name": "server_status_request",
+   "type" : "record",
+   "name" : "server_status_request",
    "fields" : [
-       	{"name" : "option", "type" : "string"}
+        { "name" : "option", "type" : "string" }
     ]
 }

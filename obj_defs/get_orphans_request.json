@@ -2,6 +2,6 @@
     "type" : "record",
     "name" : "get_orphans_request",
     "fields" : [
-           { "name" : "set_namespace", "type" : "string" }
+        { "name" : "set_namespace", "type" : "string" }
     ]
 }
