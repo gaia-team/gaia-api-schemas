@@ -8,6 +8,7 @@
         { "name" : "labels", "type" : { "type" : "array", "items" : "string" }},
         { "name" : "semantic_types", "type" : { "type" : "array", "items" : "string" }},
         { "name" : "sorted", "type" : { "type" : "array", "items" : "boolean" }},
-        { "name" : "ttls", "type" : { "type" : "array", "items" : "int" }}
+        { "name" : "ttls", "type" : { "type" : "array", "items" : "int" }},
+        { "name" : "annotations", "type" : { "type" : "array", "items" : { "type" : "map", "values" : { "type" : "array", "items" : "string" }}}}
     ]
 }
