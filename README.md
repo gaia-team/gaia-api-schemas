@@ -1,1 +1,1 @@
-# This repo contains all of the valid GAIA JSON schemas.
+# This repo contains all of the valid GPUdb JSON schemas.
