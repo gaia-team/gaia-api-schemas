@@ -1,0 +1,10 @@
+{
+    "type" : "record",
+    "name" : "statistics_request",
+    "fields" : [
+        { "name" : "stats", "type" : "string" },
+        { "name" : "attribute", "type" : "string" },
+        { "name" : "set_id", "type" : "string" },
+        { "name" : "user_auth_string", "type" : "string" }
+    ]
+}
