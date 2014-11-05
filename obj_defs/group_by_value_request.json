@@ -1,0 +1,10 @@
+{
+    "type" : "record",
+    "name" : "group_by_value_request",
+    "fields" : [
+        { "name" : "set_id", "type" : "string" },
+        { "name" : "attributes", "type" : { "type" : "array", "items" : "string" }},
+        { "name" : "value_attribute", "type" : "string"},
+        { "name" : "user_auth_string", "type" : "string" }
+    ]
+}

@@ -2,6 +2,6 @@
     "type" : "record",
     "name" : "statistics_response",
     "fields" : [
-	{ "name" : "stats",   "type" : { "type" : "map",   "values": "double" }}
+        { "name" : "stats",   "type" : { "type" : "map",   "values": "double" }}
     ]
 }

@@ -1,6 +1,6 @@
 {
     "type" : "record",
-    "name" : "register_trigger_range_response",
+    "name" : "clear_trigger_request",
     "fields" : [
         { "name" : "trigger_id", "type" : "string" }
     ]

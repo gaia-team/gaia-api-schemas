@@ -1,6 +1,6 @@
 {
     "type" : "record",
-    "name" : "bounding_box_response",
+    "name" : "select_delete_response",
     "fields" : [
         { "name" : "count", "type" : "long" }
     ]

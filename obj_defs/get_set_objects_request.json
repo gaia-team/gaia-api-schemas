@@ -1,11 +1,11 @@
 {
     "type" : "record",
-    "name" : "get_set_request",
-    "fields" : [
+    "name" : "get_set_objects_request",
+    "fields" : [ 
+        { "name" : "set_id", "type" : "string" },
         { "name" : "start", "type" : "long" },
         { "name" : "end", "type" : "long" },
-        { "name" : "set_id", "type" : "string" },
-        { "name" : "semantic_type", "type" : "string" },
+        { "name" : "encoding", "type" : "string" },
         { "name" : "user_auth_string", "type" : "string" }
     ]
 }

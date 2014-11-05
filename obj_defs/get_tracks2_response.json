@@ -1,0 +1,8 @@
+{   
+    "type" : "record",
+    "name" : "get_tracks2_response",
+    "fields" : [
+        { "name" : "lists", "type" : { "type" : "array", "items" : { "type" : "array", "items" : "bytes" }}},
+        { "name" : "set_ids", "type" : { "type" : "array", "items" : "string" }}
+    ]
+}

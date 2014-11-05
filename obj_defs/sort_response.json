@@ -1,7 +1,0 @@
-{
-    "type" : "record",
-    "name" : "sort_response",
-    "fields" : [
-        { "name" : "status", "type" : "string" }
-    ]
-}

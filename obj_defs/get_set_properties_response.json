@@ -1,0 +1,8 @@
+{
+    "type" : "record",
+    "name" : "get_set_properties_response",
+    "fields" : [
+        { "name" : "set_ids", "type" : { "type" : "array", "items" : "string" }},
+        { "name" : "properties_maps", "type" : { "type" : "array", "items" : { "type" : "map", "values" : "string"}}}
+    ]
+}

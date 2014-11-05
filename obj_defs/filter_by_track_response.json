@@ -1,6 +1,6 @@
 {
     "type" : "record",
-    "name" : "bounding_box_response",
+    "name" : "filter_by_track_response",
     "fields" : [
         { "name" : "count", "type" : "long" }
     ]
