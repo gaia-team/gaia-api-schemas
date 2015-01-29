@@ -1,0 +1,11 @@
+{
+    "type" : "record",
+    "name" : "bulk_select_request",
+    "fields" : [
+    	{ "name" : "set_id", "type" : "string" },
+    	{ "name" : "global_expression", "type" : "string" },
+    	{ "name" : "expressions", "type" : { "type" : "array", "items" : "string" }},
+        { "name" : "params", "type" : { "type" : "map", "values" : "string"} },
+        { "name" : "user_auth_string", "type" : "string" }
+    ]
+}

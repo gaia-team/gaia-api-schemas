@@ -1,0 +1,7 @@
+{
+   "type" : "record",
+   "name" : "server_timing_request",
+   "fields" : [
+        { "name" : "option", "type" : "string" }
+    ]
+}

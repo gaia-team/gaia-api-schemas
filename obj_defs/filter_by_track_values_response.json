@@ -1,6 +1,6 @@
 {
     "type" : "record",
-    "name" : "filter_by_set_response",
+    "name" : "filter_by_track_values_response",
     "fields" : [
         { "name" : "count", "type" : "long" }
     ]
