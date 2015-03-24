@@ -1,0 +1,10 @@
+{
+    "type" : "record",
+    "name" : "index_request",
+    "fields" : [
+        { "name" : "set_id", "type" : "string" },
+        { "name" : "attribute", "type" : "string" },
+        { "name" : "action", "type" : "string" },
+        { "name" : "params", "type" : { "type" : "map", "values" : "string"}}
+    ]
+}

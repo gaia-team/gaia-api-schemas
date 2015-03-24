@@ -1,0 +1,7 @@
+{
+    "type" : "record",
+    "name" : "index_response",
+    "fields" : [
+        { "name" : "status", "type" : "string" }
+    ]
+}
