@@ -1,0 +1,7 @@
+{
+    "type" : "record",
+    "name" : "system_properties_response",
+    "fields" : [
+        { "name" : "properties_map", "type" : { "type" : "map", "values" : "string" }}
+    ]
+}
