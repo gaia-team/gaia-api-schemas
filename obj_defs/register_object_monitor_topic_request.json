@@ -1,0 +1,8 @@
+{
+    "type" : "record",
+    "name" : "register_object_monitor_topic_request",
+    "fields" : [
+        { "name" : "set_id", "type" : "string" },
+        { "name" : "params", "type" : { "type" : "map", "values" : "string" } }
+    ]
+}

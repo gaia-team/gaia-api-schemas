@@ -1,0 +1,9 @@
+{
+    "type" : "record",
+    "name" : "register_object_monitor_topic_response",
+    "fields" : [
+        { "name" : "topic_id", "type" : "string" },
+        { "name" : "set_id", "type" : "string" },
+        { "name" : "type_schema", "type" : "string" }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "type" : "record",
+    "name" : "unregister_object_monitor_topic_response",
+    "fields" : [
+        { "name" : "topic_id", "type" : "string" }
+    ]
+}
